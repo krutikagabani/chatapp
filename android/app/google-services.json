@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910471716528",
+    "project_id": "newchatproject-3ef4c",
+    "storage_bucket": "newchatproject-3ef4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910471716528:android:98a44603caea08966ca575",
+        "android_client_info": {
+          "package_name": "karon.com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910471716528-r911pjt3mlvotuul1h2kvohokb8havfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8PB07u5FTiCI0ro_DZmmaYRDIgG7tjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910471716528-r911pjt3mlvotuul1h2kvohokb8havfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
